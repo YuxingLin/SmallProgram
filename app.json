@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/welcome/welcome",
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "i福州移动",
+    "navigationBarTextStyle": "black"
+  }
+}
